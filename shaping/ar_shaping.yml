@@ -1,0 +1,27 @@
+decide:
+  parameters:
+    correct_timeout: false
+    rand_replace: true
+    init_position: peck_center
+  name_format: 2ac-shaping
+  stimulus_root: /root/auditory_restoration_stimuli/stimuli/shaping/
+  choices:
+    - peck_left
+    - peck_right
+stimuli:
+  format: "{bird}-{position}_0_100_{condition}"
+  decisive_attribute: condition
+  bird:
+    values:
+      - B189
+      - B30
+      - B72
+      - O169
+  position:
+    values:
+      - 1
+      - 2
+  condition:
+    values:
+      - added
+      - replaced
