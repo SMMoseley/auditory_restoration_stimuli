@@ -11,6 +11,7 @@ decide:
 stimuli:
   format: "{bird}-{position}_0_100_{condition}"
   decisive_attribute: condition
+  category: condition
   bird:
     values:
       - B189

@@ -7,190 +7,6 @@
   "stimulus_root": "/root/auditory_restoration_stimuli/stimuli/shaping/",
   "stimuli": [
     {
-      "name": "B189-1_0_100_added",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B189-1_0_100_replaced",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B189-2_0_100_added",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B189-2_0_100_replaced",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B30-1_0_100_added",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B30-1_0_100_replaced",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B30-2_0_100_added",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B30-2_0_100_replaced",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
       "name": "B72-1_0_100_added",
       "frequency": 1,
       "responses": {
@@ -211,122 +27,7 @@
           "correct": false
         }
       },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B72-1_0_100_replaced",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B72-2_0_100_added",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "B72-2_0_100_replaced",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "O169-1_0_100_added",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
-    },
-    {
-      "name": "O169-1_0_100_replaced",
-      "frequency": 1,
-      "responses": {
-        "peck_left": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_center": {
-          "p_punish": 1.0,
-          "correct": false
-        },
-        "peck_right": {
-          "p_reward": 1.0,
-          "correct": true
-        },
-        "timeout": {
-          "p_punish": 1.0,
-          "correct": false
-        }
-      },
-      "category": "no_cue_lights"
+      "category": "added"
     },
     {
       "name": "O169-2_0_100_added",
@@ -349,7 +50,99 @@
           "correct": false
         }
       },
-      "category": "no_cue_lights"
+      "category": "added"
+    },
+    {
+      "name": "B30-2_0_100_replaced",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "replaced"
+    },
+    {
+      "name": "B72-2_0_100_added",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "added"
+    },
+    {
+      "name": "B189-1_0_100_added",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "added"
+    },
+    {
+      "name": "O169-1_0_100_added",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "added"
     },
     {
       "name": "O169-2_0_100_replaced",
@@ -372,7 +165,214 @@
           "correct": false
         }
       },
-      "category": "no_cue_lights"
+      "category": "replaced"
+    },
+    {
+      "name": "B72-2_0_100_replaced",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "replaced"
+    },
+    {
+      "name": "B189-1_0_100_replaced",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "replaced"
+    },
+    {
+      "name": "B30-1_0_100_replaced",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "replaced"
+    },
+    {
+      "name": "B30-2_0_100_added",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "added"
+    },
+    {
+      "name": "B189-2_0_100_replaced",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "replaced"
+    },
+    {
+      "name": "O169-1_0_100_replaced",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "replaced"
+    },
+    {
+      "name": "B30-1_0_100_added",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "added"
+    },
+    {
+      "name": "B72-1_0_100_replaced",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "replaced"
+    },
+    {
+      "name": "B189-2_0_100_added",
+      "frequency": 1,
+      "responses": {
+        "peck_left": {
+          "p_reward": 1.0,
+          "correct": true
+        },
+        "peck_center": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "peck_right": {
+          "p_punish": 1.0,
+          "correct": false
+        },
+        "timeout": {
+          "p_punish": 1.0,
+          "correct": false
+        }
+      },
+      "category": "added"
     }
   ]
 }
